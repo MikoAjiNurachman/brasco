@@ -1,0 +1,6 @@
+{
+  "require": {
+    "datatables.net/editor-php": "1.*",
+    "vlucas/phpdotenv": "^4.1"
+  }
+}
